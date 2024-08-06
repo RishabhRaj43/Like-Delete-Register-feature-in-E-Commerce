@@ -16,7 +16,7 @@ app.use(cors());
 newConnect();
 
 // Routes
-app.use("/api",insert)
+app.use("/api", insert);
 
 const port = process.env.PORT || 3000;
 
