@@ -38,7 +38,7 @@ const Like = () => {
     }
   };
 
-  const sendlike = async () => {
+  const register = async () => {
     try {
       const res = await axios.post("http://localhost:5000/api/new", {
         name: value,
@@ -78,7 +78,7 @@ const Like = () => {
           placeholder="Type here"
           className="input input-bordered w-full max-w-xs"
         />
-        <button className="btn btn-accent" onClick={sendlike}>
+        <button className="btn btn-accent" onClick={register}>
           Register
         </button>
       </div>
