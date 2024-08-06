@@ -6,7 +6,7 @@ This project allows users to register, like, and delete products from a database
 ----
 ## Note
 
-> **🔔 Note:** This project is just a part of my Full-Stack E-Commerce Website.
+> **🔔 Note:** This project is just a part of my [Full-Stack E-Commerce Website](https://github.com/RishabhRaj43/E-Commerce-Store) .
 
 
 ----
